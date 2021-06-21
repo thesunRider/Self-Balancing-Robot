@@ -9,7 +9,7 @@ This is the most Simple Arduino based Simple Balancing Robot whose PID values we
 
 3d Print the model chassis provided and mount the components\
 ![mount](Images/motor_hold.png?raw=true "hold")
-####if more stability is needed consider printing a taller mount so that the COM is high,the current COM model is close to the ground
+#### if more stability is needed consider printing a taller mount so that the COM is high,the current COM model is close to the ground
 Use the package manager of arduino to install Necessary libraries :
 
 ```bash
